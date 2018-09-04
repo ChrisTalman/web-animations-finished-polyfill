@@ -1,0 +1,10 @@
+{
+	"name": "bluecewe/web-animations-finished-polyfill",
+	"version": "1.0.0",
+	"description": "Polyfill for Animation.finished promise.",
+	"repository":
+	{
+		"type": "git",
+		"url": "https://bitbucket.org/Bluecewe/web-animations-finished-polyfill"
+	}
+}
