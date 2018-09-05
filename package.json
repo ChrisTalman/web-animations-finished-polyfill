@@ -6,5 +6,6 @@
 	{
 		"type": "git",
 		"url": "https://bitbucket.org/Bluecewe/web-animations-finished-polyfill"
-	}
+	},
+	"entry": "./index.js"
 }
