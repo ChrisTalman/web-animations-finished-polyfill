@@ -1,6 +1,6 @@
 {
 	"name": "@bluecewe/web-animations-finished-polyfill",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Polyfill for Animation.finished promise.",
 	"repository":
 	{
