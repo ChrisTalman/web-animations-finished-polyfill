@@ -13,7 +13,7 @@
 				{
 					window.Animation = document.body.animate({}).constructor;
 				};
-				if (Animation.prototype.finished === undefined)
+				if ('finished' in Animation.prototype)
 				{
 					Object.defineProperty
 					(
